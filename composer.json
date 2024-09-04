@@ -1,0 +1,7 @@
+{
+    "require": {
+        "memran/marwadb": "dev-master",
+        "leafs/leaf": "^3.4",
+      "ext-pdo": "*"
+    }
+}
